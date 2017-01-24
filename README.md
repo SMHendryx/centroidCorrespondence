@@ -1,1 +1,2 @@
 # centroidCorrespondence
+Scripts to find correspondence between objects given point clouds.  matchFaces.R "matches" faces by computing closest Euclidean distance.  Given landmark locations, script can match training and prediction datasets for evaluation.
